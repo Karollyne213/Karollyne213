@@ -10,7 +10,7 @@ meu nome e karollyne nicacio
 -utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 
-###voce entra em contato comigo 💌
+##voce entra em contato comigo 💌
 
 
 0001101378773SP@al.educacao.sp.gov.br
