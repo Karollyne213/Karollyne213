@@ -3,7 +3,7 @@
 meu nome e karollyne nicacio
 
 
--Estou visitando a Alura.
+-Estou estudando na Alura.
 
 -estou desenvolvendo na linguagem JavaScript
 
